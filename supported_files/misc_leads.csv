@@ -1,0 +1,170 @@
+LeadCreatedAt,SPId,LeadId,SourceType,MediumType,ProductType,Status,SubStatus
+2023-09-26 13:06:43.444,SP-65435,AT-91961,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-25 03:42:39.155,SP-75560,AT-G7I0U,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-27 10:10:18.494,SP-93990,AT-4LP6S,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-26 23:58:57.787,SP-45539,AT-Y4M6Y,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-24 12:09:43.842,SP-27330,AT-RXKPR,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-10-01 16:51:01.310,SP-89588,AT-SW0E9,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-09-30 06:24:05.632,SP-77678,AT-1R7PJ,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-25 17:45:48.969,SP-73872,AT-4U8T3,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-24 06:05:54.061,SP-92519,AT-B5TIX,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-30 10:29:58.249,SP-26995,AT-I9LFG,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-09-29 03:50:49.392,SP-24970,AT-YL9OS,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-27 11:11:51.003,SP-37821,AT-VLA3G,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-23 12:06:18.227,SP-13011,AT-CBJ3I,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-27 09:13:54.555,SP-86038,AT-4R7RB,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-25 10:14:22.450,SP-18984,AT-TSEGA,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-28 14:48:40.232,SP-82890,AT-8M24U,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-26 04:21:18.905,SP-16188,AT-D6FKN,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-09-29 08:30:20.057,SP-85438,AT-HN7WR,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-09-23 19:31:46.167,SP-25923,AT-2D3RQ,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-30 03:18:13.517,SP-97030,AT-8NLGW,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-28 10:15:18.914,SP-63831,AT-SHZZA,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-24 10:15:41.082,SP-29008,AT-UPAID,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-30 08:30:18.340,SP-21080,AT-KD5B2,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-09-28 08:24:23.760,SP-31468,AT-0N8RZ,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-30 09:55:46.942,SP-62673,AT-Z9M39,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-10-02 04:13:27.661,SP-41443,AT-JDLWS,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-09-27 16:56:12.724,SP-13483,AT-2YJNE,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-26 07:28:12.397,SP-75958,AT-KCYMU,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-25 14:26:01.890,SP-69552,AT-MQOAT,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-01 13:18:01.620,SP-83279,AT-APV0F,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-02 04:42:32.166,SP-57823,AT-NO1J4,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-30 12:09:53.729,SP-73419,AT-5NOVY,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-09-27 06:22:54.239,SP-10755,AT-3CT6C,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-29 17:20:06.702,SP-80483,AT-HM5O2,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-01 13:56:25.902,SP-41537,AT-LY0WY,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-24 13:24:31.578,SP-23819,AT-6RFM5,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-30 09:11:09.632,SP-88417,AT-59O96,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-24 16:43:48.938,SP-38308,AT-X2GWG,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-09-29 06:50:05.166,SP-21794,AT-GRQUF,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-26 06:11:17.588,SP-23540,AT-CFCYI,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-09-26 07:29:00.532,SP-58209,AT-1JNQ4,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-26 14:45:59.379,SP-56867,AT-0GU0A,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-26 02:29:17.387,SP-79391,AT-SSRCH,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-01 07:49:49.249,SP-30353,AT-2XC9R,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-09-30 13:02:32.214,SP-72752,AT-HT982,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-10-01 13:53:04.318,SP-78605,AT-R7Z3I,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-03 01:19:34.852,SP-23819,AT-8PY6M,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-10-04 06:22:39.479,SP-88417,AT-V8Z0D,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-30 03:25:14.273,SP-38308,AT-NQASE,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-10-04 11:21:53.603,SP-51840,AT-1504T,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-10-03 07:34:18.819,SP-62254,AT-UJN20,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-29 04:40:47.505,SP-86641,AT-6CGDD,Bank_A,Medium_A,Savings Account,Success,Account Opened
+2023-10-01 02:50:33.536,SP-84707,AT-Y4MDK,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-28 17:52:53.206,SP-76874,AT-B64ZM,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-10-02 17:26:30.873,SP-67792,AT-4BFKP,Bank_A,Medium_A,Savings Account,Pending,Pending
+2023-09-30 17:25:32.739,SP-53372,AT-ACZSI,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-01 17:27:44.022,SP-82611,AT-PTQU1,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-08 18:02:35.847,SP-90844,AT-KUPSP,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-10-01 13:30:15.360,SP-30884,AT-M65PD,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-10-08 02:07:44.178,SP-88023,AT-CTS6M,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-08 16:58:37.762,SP-72943,AT-7MUC6,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-10-01 00:50:48.931,SP-74857,AT-QTZA4,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-10-02 02:32:49.683,SP-70709,AT-CCB35,Bank_A,Medium_B,Savings Account,Success,Account Opened
+2023-10-03 02:52:33.424,SP-69284,AT-PXOBF,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-10-02 15:12:49.339,SP-27456,AT-OQ16N,Bank_A,Medium_B,Savings Account,Pending,Pending
+2023-09-21 15:12:19.540,SP-27676,AT-YXXWY,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-25 08:30:29.956,SP-78989,AT-DXKNM,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-25 14:25:43.500,SP-97388,AT-R6WVP,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-28 17:03:11.879,SP-91217,AT-7L2PP,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-22 07:45:25.658,SP-92937,AT-79KEM,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-22 18:08:32.010,SP-17411,AT-ZZQKH,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-22 12:18:12.347,SP-89411,AT-FA53R,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-22 12:16:45.753,SP-11977,AT-1EKEC,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-30 08:44:57.934,SP-11796,AT-XZYP9,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-27 17:40:24.880,SP-83289,AT-565SE,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-27 21:31:44.247,SP-47027,AT-MM7W8,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-24 06:21:37.992,SP-23819,AT-TCSH9,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-29 19:37:35.234,SP-88417,AT-D2CWJ,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-23 20:08:07.453,SP-38308,AT-BBKHB,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-24 19:27:32.774,SP-54676,AT-9PSSQ,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-30 04:21:55.059,SP-63035,AT-J9SIH,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-25 06:49:19.671,SP-22631,AT-VEQIL,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-29 06:03:07.479,SP-46221,AT-A9M3Z,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-26 08:52:02.033,SP-52149,AT-72AHF,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-22 05:43:14.962,SP-11977,AT-73T6K,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-27 12:20:57.567,SP-11796,AT-HZM4Q,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-28 05:31:01.437,SP-86038,AT-ECTOK,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-26 05:16:05.533,SP-18984,AT-XT67T,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-28 17:10:42.839,SP-34074,AT-OVOGN,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-02 17:41:15.224,SP-36370,AT-RAXYX,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-29 03:39:36.645,SP-36436,AT-ZZP9D,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-26 06:56:26.854,SP-86038,AT-XE2FU,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-26 14:37:23.372,SP-18984,AT-PVAU9,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-01 19:24:38.034,SP-82890,AT-BNDYL,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-28 09:37:07.985,SP-70515,AT-TYNJH,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-23 11:14:56.350,SP-47433,AT-A8DHX,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-27 18:15:12.173,SP-79594,AT-3XH82,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-30 09:18:33.876,SP-92504,AT-D31UK,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-23 05:03:37.186,SP-39169,AT-Q9WQ7,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-27 10:20:22.830,SP-72482,AT-A0Q95,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-02 16:19:42.827,SP-89371,AT-EWCON,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-28 14:09:34.581,SP-23819,AT-N6NXX,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-26 08:08:32.046,SP-88417,AT-0KMOF,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-28 02:46:56.911,SP-23819,AT-K2KP9,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-24 16:10:44.316,SP-88417,AT-1OX77,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-25 15:45:43.954,SP-38308,AT-SFB02,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-28 04:45:37.964,SP-29391,AT-7P8H7,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-27 16:23:53.227,SP-58735,AT-SWPKJ,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-30 14:21:13.862,SP-77518,AT-J62E9,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-27 05:07:40.268,SP-13011,AT-0WXE2,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-29 12:28:16.978,SP-86038,AT-JYWEK,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-29 12:07:08.253,SP-18984,AT-D3AI6,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-29 11:53:13.372,SP-77678,AT-LXBOL,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-04 20:16:27.715,SP-39885,AT-O377M,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-02 12:35:14.820,SP-29391,AT-63VJJ,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-02 02:40:05.524,SP-58735,AT-1L77R,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-03 08:06:05.076,SP-77518,AT-XZ7F6,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-27 02:40:29.086,SP-13011,AT-TCB1C,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-03 06:53:13.198,SP-86038,AT-AVH2K,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-26 08:00:33.592,SP-18984,AT-IN9X3,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-25 02:27:40.925,SP-77678,AT-WJYXV,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-29 14:10:42.920,SP-73872,AT-RUMS3,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-26 05:26:39.924,SP-92519,AT-64RYK,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-04 00:01:31.652,SP-26995,AT-R1IN1,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-28 07:25:17.881,SP-24970,AT-E1WRO,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-30 05:58:44.088,SP-63831,AT-4E2UP,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-29 10:01:59.665,SP-67269,AT-NJIWJ,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-05 08:40:26.972,SP-97317,AT-DHCZ5,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-05 07:37:59.767,SP-66950,AT-T3X5J,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-04 06:55:38.239,SP-90568,AT-BXI0E,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-02 07:39:30.817,SP-24479,AT-2J63C,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-27 07:31:21.525,SP-52311,AT-VCW9M,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-09-26 12:27:23.979,SP-10777,AT-KFZ4W,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-03 10:18:12.123,SP-28517,AT-8CPW1,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-07 08:35:37.990,SP-89411,AT-XSQ6I,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-04 09:28:44.558,SP-11977,AT-5X4J4,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-03 23:58:22.810,SP-86063,AT-ZZ4GB,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-02 05:24:21.486,SP-72395,AT-FSSU2,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-08 11:58:24.210,SP-65992,AT-GKPAE,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-03 12:31:14.084,SP-58730,AT-0CPER,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-05 08:35:54.289,SP-17974,AT-FY6NW,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-04 14:43:44.257,SP-62064,AT-XEYMF,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-02 03:55:52.244,SP-41437,AT-RSO0R,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-09 11:34:39.078,SP-73963,AT-MJMCB,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-09 19:23:44.668,SP-75913,AT-GVCWU,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-05 23:30:19.098,SP-34419,AT-KE8GK,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-04 08:37:46.625,SP-51107,AT-H999T,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-09 11:59:12.019,SP-63263,AT-89UJV,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-01 03:51:13.446,SP-96770,AT-4AUAQ,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-08 03:33:30.341,SP-93945,AT-GE31S,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-04 06:55:38.239,SP-93747,AT-MLV10,Bank_B,Medium_A,Personal Loan,Success,Loan Disbursed
+2023-10-02 07:39:30.817,SP-65435,AT-0BMR2,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-27 07:31:21.525,SP-75560,AT-VLO54,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-09-26 12:27:23.979,SP-30483,AT-B1TF1,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-03 10:18:12.123,SP-27161,AT-V7U0N,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-07 08:35:37.990,SP-44854,AT-KBALT,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-04 09:28:44.558,SP-45133,AT-DK2DZ,Bank_B,Medium_A,Personal Loan,Success,Account Opened
+2023-10-03 23:58:22.810,SP-75412,AT-08VTQ,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-02 05:24:21.486,SP-75913,AT-08NRV,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-08 11:58:24.210,SP-34419,AT-1TVIX,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-03 12:31:14.084,SP-10765,AT-MHO2C,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-05 08:35:54.289,SP-18577,AT-C30ZI,Bank_B,Medium_A,Personal Loan,Success,Account Opened
+2023-10-04 14:43:44.257,SP-79948,AT-TD89A,Bank_B,Medium_A,Personal Loan,Success,Account Opened
+2023-10-02 03:55:52.244,SP-16242,AT-KYUNG,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-09 11:34:39.078,SP-44764,AT-4VOY7,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-09 19:23:44.668,SP-32480,AT-D8TJ1,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-05 23:30:19.098,SP-62461,AT-T4BN8,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-04 08:37:46.625,SP-52311,AT-67WJ6,Bank_B,Medium_A,Personal Loan,Pending,Pending
+2023-10-09 11:59:12.019,SP-10777,AT-RXDL2,Bank_B,Medium_A,Personal Loan,Pending,Pending
